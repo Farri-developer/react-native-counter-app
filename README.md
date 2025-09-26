@@ -16,7 +16,7 @@ react-native-counter-app/
 ## 🖼️ App Preview
 
 <p align="center">
-  <img src="img/Count.png" alt="Counter App Screenshot" width="300px">
+  <img src="img/Count.png" alt="Counter App Screenshot" width="200px">
 </p>
 
 ---
